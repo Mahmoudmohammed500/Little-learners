@@ -1,0 +1,19 @@
+.AcademicsPage {
+  margin: 10px 0 0;
+  width: 100%;
+  background-color: #fff5f0;
+}
+
+.AcademicsPage * {
+  box-sizing: border-box;
+}
+.studiesimg {
+  position: "absolute";
+  top: "-9%";
+  left: "50%";
+  transform: "translateX(-50%)";
+  width: "80%";
+  height: "59%";
+  border-radius: "8px";
+  z-index: 1;
+}
